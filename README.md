@@ -1,4 +1,4 @@
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-CI-with-MATLAB-and-GitHub-Actions)
+[![View CI with MATLAB and GitHub Actions Workshop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/120198-ci-with-matlab-and-github-actions-workshop)
 
 # Continuous Integration with MATLAB<sup>&reg;</sup> and GitHub<sup>&reg;</sup> Actions Workshop
 
